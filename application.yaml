@@ -6,6 +6,8 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
 
+word: gopika
+
 ---
 spring:
   profiles: subject
